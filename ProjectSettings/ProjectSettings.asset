@@ -661,10 +661,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: eabec662-53af-40a7-9516-3ac432385c18
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: Top down shooter
+  organizationId: firate
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
